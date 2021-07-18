@@ -11,6 +11,7 @@
 		841FCF4F26A3B53700709110 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 841FCF4E26A3B53700709110 /* ContentView.swift */; };
 		841FCF5126A3B53800709110 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 841FCF5026A3B53800709110 /* Assets.xcassets */; };
 		841FCF5426A3B53800709110 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 841FCF5326A3B53800709110 /* Preview Assets.xcassets */; };
+		841FCF5C26A3B57B00709110 /* OkashiData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 841FCF5B26A3B57B00709110 /* OkashiData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		841FCF5026A3B53800709110 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		841FCF5326A3B53800709110 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		841FCF5526A3B53800709110 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		841FCF5B26A3B57B00709110 /* OkashiData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OkashiData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				841FCF4C26A3B53700709110 /* MyOkashi_2App.swift */,
 				841FCF4E26A3B53700709110 /* ContentView.swift */,
+				841FCF5B26A3B57B00709110 /* OkashiData.swift */,
 				841FCF5026A3B53800709110 /* Assets.xcassets */,
 				841FCF5526A3B53800709110 /* Info.plist */,
 				841FCF5226A3B53800709110 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				841FCF4F26A3B53700709110 /* ContentView.swift in Sources */,
+				841FCF5C26A3B57B00709110 /* OkashiData.swift in Sources */,
 				841FCF4D26A3B53700709110 /* MyOkashi_2App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
